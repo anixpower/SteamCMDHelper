@@ -1,5 +1,5 @@
 
-Created by Mario Pleian 2024 for installing on windows standalone steam games servers! 
+App for installing on windows standalone steam games servers! 
 If you think this is helpful, you can give me a coffe using the Donate link or by accesing patreon.com/anix64
 
 How to use
@@ -11,3 +11,6 @@ How to use
 3.Select directory where you want the files to be downloaded from Browse and fill the fields.
 
 4.Click Install/Update and wait the install to be complete. 
+
+
+Created by Mario Pleian 2024
