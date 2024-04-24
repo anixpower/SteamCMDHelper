@@ -4,7 +4,7 @@ If you think this is helpful, you can give me a coffe using the Donate link or b
 
 How to use
 
-1.Download steamcmd and place it in the same directory as this app.
-2.Search online for the steam app id for the game server you want.
-3.Select directory where you want the files to be downloaded from Browse and fill the fields.
-4.Click Install/Update and wait the install to be complete.
+1.Download steamcmd and place it in the same directory as this app. \n
+2.Search online for the steam app id for the game server you want. \n
+3.Select directory where you want the files to be downloaded from Browse and fill the fields. \n
+4.Click Install/Update and wait the install to be complete. \n
